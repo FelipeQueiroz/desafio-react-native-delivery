@@ -1,4 +1,4 @@
-<img alt="GoStack" src="https://ibb.co/hdh5W30" />
+<img alt="Capa GoRestaurant" src="https://i.imgur.com/KYOMu3V.png" />
 
 # Desafio GoRestaurant Delivery - React Native
 
